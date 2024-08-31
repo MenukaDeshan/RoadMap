@@ -1,0 +1,654 @@
+{
+  "name": "WD",
+  "type": "folder",
+  "children": [
+    {
+      "name": "Web Design",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Figma",
+          "type": "url",
+          "url": "https://www.figma.com/"
+        },
+        {
+          "name": "Adobe XD",
+          "type": "url",
+          "url": "https://www.adobe.com/products/xd.html"
+        },
+        {
+          "name": "Adobe Photoshop",
+          "type": "url",
+          "url": "https://www.adobe.com/products/photoshop.html"
+        },
+        {
+          "name": "Adobe Illustrator",
+          "type": "url",
+          "url": "https://www.adobe.com/products/illustrator.html"
+        },
+        {
+          "name": "Sketch",
+          "type": "url",
+          "url": "https://www.sketch.com/"
+        },
+        {
+          "name": "InVision",
+          "type": "url",
+          "url": "https://www.invisionapp.com/"
+        },
+        {
+          "name": "Canva",
+          "type": "url",
+          "url": "https://www.canva.com/"
+        }
+      ]
+    },
+    {
+      "name": "Frontend",
+      "type": "folder",
+      "children": [
+        {
+          "name": "HTML",
+          "type": "url",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/HTML"
+        },
+        {
+          "name": "CSS",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Bootstrap",
+              "type": "url",
+              "url": "https://getbootstrap.com/"
+            },
+            {
+              "name": "Tailwind CSS",
+              "type": "url",
+              "url": "https://tailwindcss.com/"
+            },
+            {
+              "name": "Bulma",
+              "type": "url",
+              "url": "https://bulma.io/"
+            },
+            {
+              "name": "Foundation",
+              "type": "url",
+              "url": "https://get.foundation/"
+            },
+            {
+              "name": "Materialize",
+              "type": "url",
+              "url": "https://materializecss.com/"
+            },
+            {
+              "name": "Semantic UI",
+              "type": "url",
+              "url": "https://semantic-ui.com/"
+            },
+            {
+              "name": "Chakra UI",
+              "type": "url",
+              "url": "https://chakra-ui.com/"
+            },
+            {
+              "name": "Ant Design",
+              "type": "url",
+              "url": "https://ant.design/"
+            },
+            {
+              "name": "Material UI",
+              "type": "url",
+              "url": "https://mui.com/"
+            }
+          ]
+        },
+        {
+          "name": "JavaScript",
+          "type": "folder",
+          "children": [
+            {
+              "name": "React",
+              "type": "url",
+              "url": "https://reactjs.org/"
+            },
+            {
+              "name": "Vue.js",
+              "type": "url",
+              "url": "https://vuejs.org/"
+            },
+            {
+              "name": "Angular",
+              "type": "url",
+              "url": "https://angular.io/"
+            },
+            {
+              "name": "Svelte",
+              "type": "url",
+              "url": "https://svelte.dev/"
+            },
+            {
+              "name": "Next.js",
+              "type": "url",
+              "url": "https://nextjs.org/"
+            },
+            {
+              "name": "Nuxt.js",
+              "type": "url",
+              "url": "https://nuxtjs.org/"
+            },
+            {
+              "name": "Ember.js",
+              "type": "url",
+              "url": "https://emberjs.com/"
+            },
+            {
+              "name": "Gatsby",
+              "type": "url",
+              "url": "https://www.gatsbyjs.com/"
+            },
+            {
+              "name": "jQuery",
+              "type": "url",
+              "url": "https://jquery.com/"
+            },
+            {
+              "name": "Redux",
+              "type": "url",
+              "url": "https://redux.js.org/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Backend",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Languages",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Node.js",
+              "type": "url",
+              "url": "https://nodejs.org/"
+            },
+            {
+              "name": "Python",
+              "type": "url",
+              "url": "https://www.python.org/"
+            },
+            {
+              "name": "Ruby",
+              "type": "url",
+              "url": "https://www.ruby-lang.org/en/"
+            },
+            {
+              "name": "Java",
+              "type": "url",
+              "url": "https://www.java.com/"
+            },
+            {
+              "name": "PHP",
+              "type": "url",
+              "url": "https://www.php.net/"
+            },
+            {
+              "name": "Go",
+              "type": "url",
+              "url": "https://golang.org/"
+            },
+            {
+              "name": "C#",
+              "type": "url",
+              "url": "https://docs.microsoft.com/en-us/dotnet/csharp/"
+            },
+            {
+              "name": "Rust",
+              "type": "url",
+              "url": "https://www.rust-lang.org/"
+            }
+          ]
+        },
+        {
+          "name": "Frameworks",
+          "type": "folder",
+          "children": [
+            {
+              "name": "Express.js",
+              "type": "url",
+              "url": "https://expressjs.com/"
+            },
+            {
+              "name": "Django",
+              "type": "url",
+              "url": "https://www.djangoproject.com/"
+            },
+            {
+              "name": "Ruby on Rails",
+              "type": "url",
+              "url": "https://rubyonrails.org/"
+            },
+            {
+              "name": "Spring",
+              "type": "url",
+              "url": "https://spring.io/"
+            },
+            {
+              "name": "Laravel",
+              "type": "url",
+              "url": "https://laravel.com/"
+            },
+            {
+              "name": "Gin",
+              "type": "url",
+              "url": "https://gin-gonic.com/"
+            },
+            {
+              "name": ".NET Core",
+              "type": "url",
+              "url": "https://dotnet.microsoft.com/"
+            },
+            {
+              "name": "Fiber",
+              "type": "url",
+              "url": "https://gofiber.io/"
+            }
+          ]
+        },
+        {
+          "name": "Databases",
+          "type": "folder",
+          "children": [
+            {
+              "name": "MongoDB",
+              "type": "url",
+              "url": "https://www.mongodb.com/"
+            },
+            {
+              "name": "MySQL",
+              "type": "url",
+              "url": "https://www.mysql.com/"
+            },
+            {
+              "name": "PostgreSQL",
+              "type": "url",
+              "url": "https://www.postgresql.org/"
+            },
+            {
+              "name": "SQLite",
+              "type": "url",
+              "url": "https://www.sqlite.org/index.html"
+            },
+            {
+              "name": "Redis",
+              "type": "url",
+              "url": "https://redis.io/"
+            },
+            {
+              "name": "Firebase",
+              "type": "url",
+              "url": "https://firebase.google.com/"
+            },
+            {
+              "name": "Oracle Database",
+              "type": "url",
+              "url": "https://www.oracle.com/database/"
+            },
+            {
+              "name": "Microsoft SQL Server",
+              "type": "url",
+              "url": "https://www.microsoft.com/en-us/sql-server"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Version Control Systems",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Git",
+          "type": "url",
+          "url": "https://git-scm.com/"
+        },
+        {
+          "name": "GitHub",
+          "type": "url",
+          "url": "https://github.com/"
+        },
+        {
+          "name": "GitLab",
+          "type": "url",
+          "url": "https://about.gitlab.com/"
+        },
+        {
+          "name": "Bitbucket",
+          "type": "url",
+          "url": "https://bitbucket.org/"
+        },
+        {
+          "name": "Apache Subversion",
+          "type": "url",
+          "url": "https://subversion.apache.org/"
+        },
+        {
+          "name": "Mercurial",
+          "type": "url",
+          "url": "https://www.mercurial-scm.org/"
+        }
+      ]
+    },
+    {
+      "name": "Package Managers",
+      "type": "folder",
+      "children": [
+        {
+          "name": "npm",
+          "type": "url",
+          "url": "https://www.npmjs.com/"
+        },
+        {
+          "name": "Yarn",
+          "type": "url",
+          "url": "https://yarnpkg.com/"
+        },
+        {
+          "name": "pnpm",
+          "type": "url",
+          "url": "https://pnpm.io/"
+        },
+        {
+          "name": "Composer",
+          "type": "url",
+          "url": "https://getcomposer.org/"
+        },
+        {
+          "name": "pip",
+          "type": "url",
+          "url": "https://pip.pypa.io/"
+        },
+        {
+          "name": "NuGet",
+          "type": "url",
+          "url": "https://www.nuget.org/"
+        },
+        {
+          "name": "Homebrew",
+          "type": "url",
+          "url": "https://brew.sh/"
+        }
+      ]
+    },
+    {
+      "name": "Testing",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Jest",
+          "type": "url",
+          "url": "https://jestjs.io/"
+        },
+        {
+          "name": "Mocha",
+          "type": "url",
+          "url": "https://mochajs.org/"
+        },
+        {
+          "name": "Chai",
+          "type": "url",
+          "url": "https://www.chaijs.com/"
+        },
+        {
+          "name": "Selenium",
+          "type": "url",
+          "url": "https://www.selenium.dev/"
+        },
+        {
+          "name": "Cypress",
+          "type": "url",
+          "url": "https://www.cypress.io/"
+        },
+        {
+          "name": "JUnit",
+          "type": "url",
+          "url": "https://junit.org/"
+        },
+        {
+          "name": "RSpec",
+          "type": "url",
+          "url": "https://rspec.info/"
+        }
+      ]
+    },
+    {
+      "name": "Build Tools",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Webpack",
+          "type": "url",
+          "url": "https://webpack.js.org/"
+        },
+        {
+          "name": "Gulp",
+          "type": "url",
+          "url": "https://gulpjs.com/"
+        },
+        {
+          "name": "Grunt",
+          "type": "url",
+          "url": "https://gruntjs.com/"
+        },
+        {
+          "name": "Parcel",
+          "type": "url",
+          "url": "https://parceljs.org/"
+        },
+        {
+          "name": "Rollup",
+          "type": "url",
+          "url": "https://rollupjs.org/"
+        },
+        {
+          "name": "esbuild",
+          "type": "url",
+          "url": "https://esbuild.github.io/"
+        },
+        {
+          "name": "Vite",
+          "type": "url",
+          "url": "https://vitejs.dev/"
+        }
+      ]
+    },
+    {
+      "name": "Cloud Platforms",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Amazon Web Services (AWS)",
+          "type": "url",
+          "url": "https://aws.amazon.com/"
+        },
+        {
+          "name": "Microsoft Azure",
+          "type": "url",
+          "url": "https://azure.microsoft.com/"
+        },
+        {
+          "name": "Google Cloud Platform",
+          "type": "url",
+          "url": "https://cloud.google.com/"
+        },
+        {
+          "name": "Heroku",
+          "type": "url",
+          "url": "https://www.heroku.com/"
+        },
+        {
+          "name": "DigitalOcean",
+          "type": "url",
+          "url": "https://www.digitalocean.com/"
+        },
+        {
+          "name": "Netlify",
+          "type": "url",
+          "url": "https://www.netlify.com/"
+        },
+        {
+          "name": "Vercel",
+          "type": "url",
+          "url": "https://vercel.com/"
+        }
+      ]
+    },
+    {
+      "name": "APIs and Tools",
+      "type": "folder",
+      "children": [
+        {
+          "name": "RESTful API",
+          "type": "url",
+          "url": "https://restfulapi.net/"
+        },
+        {
+          "name": "GraphQL",
+          "type": "url",
+          "url": "https://graphql.org/"
+        },
+        {
+          "name": "Postman",
+          "type": "url",
+          "url": "https://www.postman.com/"
+        },
+        {
+          "name": "Swagger",
+          "type": "url",
+          "url": "https://swagger.io/"
+        },
+        {
+          "name": "Axios",
+          "type": "url",
+          "url": "https://axios-http.com/"
+        },
+        {
+          "name": "Socket.io",
+          "type": "url",
+          "url": "https://socket.io/"
+        }
+      ]
+    },
+    {
+      "name": "CSS Preprocessors",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Sass",
+          "type": "url",
+          "url": "https://sass-lang.com/"
+        },
+        {
+          "name": "Less",
+          "type": "url",
+          "url": "https://lesscss.org/"
+        },
+        {
+          "name": "Stylus",
+          "type": "url",
+          "url": "https://stylus-lang.com/"
+        }
+      ]
+    },
+    {
+      "name": "Mobile Development",
+      "type": "folder",
+      "children": [
+        {
+          "name": "React Native",
+          "type": "url",
+          "url": "https://reactnative.dev/"
+        },
+        {
+          "name": "Flutter",
+          "type": "url",
+          "url": "https://flutter.dev/"
+        },
+        {
+          "name": "Ionic",
+          "type": "url",
+          "url": "https://ionicframework.com/"
+        },
+        {
+          "name": "Xamarin",
+          "type": "url",
+          "url": "https://dotnet.microsoft.com/apps/xamarin"
+        },
+        {
+          "name": "NativeScript",
+          "type": "url",
+          "url": "https://nativescript.org/"
+        }
+      ]
+    },
+    {
+      "name": "Static Site Generators",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Jekyll",
+          "type": "url",
+          "url": "https://jekyllrb.com/"
+        },
+        {
+          "name": "Hugo",
+          "type": "url",
+          "url": "https://gohugo.io/"
+        },
+        {
+          "name": "Gatsby",
+          "type": "url",
+          "url": "https://www.gatsbyjs.com/"
+        },
+        {
+          "name": "Next.js",
+          "type": "url",
+          "url": "https://nextjs.org/"
+        },
+        {
+          "name": "Eleventy",
+          "type": "url",
+          "url": "https://www.11ty.dev/"
+        }
+      ]
+    },
+    {
+      "name": "Task Runners",
+      "type": "folder",
+      "children": [
+        {
+          "name": "npm Scripts",
+          "type": "url",
+          "url": "https://docs.npmjs.com/cli/v7/using-npm/scripts"
+        },
+        {
+          "name": "Gulp",
+          "type": "url",
+          "url": "https://gulpjs.com/"
+        },
+        {
+          "name": "Grunt",
+          "type": "url",
+          "url": "https://gruntjs.com/"
+        },
+        {
+          "name": "Make",
+          "type": "url",
+          "url": "https://www.gnu.org/software/make/"
+        }
+      ]
+    }
+  ]
+}
